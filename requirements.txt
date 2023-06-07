@@ -1,0 +1,6 @@
+opencv-python
+glob2
+seaborn
+opencv-contrib-python-headless
+scikit-image
+scikit-learn
